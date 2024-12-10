@@ -1,0 +1,2 @@
+Admin,Usuario,admin@tufarma.com,Administracion,0000000000,00000000A,admin,admin123
+Kevin,Mendoza,smkevinmendoza@gmail.com,Av. Universitaria 3245 - Cuadra 7,967223991,12345678,KEVINM,123123qweqwe
